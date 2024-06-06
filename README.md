@@ -1,4 +1,4 @@
-# [Target](https://india.target.com/careers)
+# [Target](https://india.target.com/about-us)
 
 Target is a globally renowned brand and a prominent retailer in the United States. Target makes itself a preferred shopping destination by offering outstanding value, inspiration, innovation and an exceptional guest experience that no other retailer can deliver.
 
@@ -6,6 +6,9 @@ This particular business case focuses on the operations of Target in Brazil and 
 
 By analyzing this extensive dataset, it becomes possible to gain valuable insights into Target's operations in Brazil. The information can shed light on various aspects of the business, such as order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction levels.
 
+
+
+![image](https://github.com/Shyamu431/Target/assets/144362526/dc933cbf-b5bf-4700-8cf8-ee0e4de700ae)
 
 
 ### Key Insights
